@@ -1,4 +1,4 @@
-# pyxel_jrpg
+# JRPG Game core written on Pyxel
 My JRPG Game core made on Pyxel
 Run init.txt to load game
 You can use this code free in your projects
