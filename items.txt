@@ -1,0 +1,6 @@
+['Sword',41]
+['Shield',40]
+['Ring',39]
+['Spear',38]
+['Armor',37]
+['Apple',36]
